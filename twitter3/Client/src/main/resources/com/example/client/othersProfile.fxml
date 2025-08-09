@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.client.OthersProfile">
+   <children>
+      <Label fx:id="bio" layoutX="60.0" layoutY="250.0" text="bio...">
+         <font>
+            <Font size="25.0" />
+         </font>
+      </Label>
+      <Label fx:id="username" layoutX="60.0" layoutY="216.0" text="username">
+         <font>
+            <Font size="23.0" />
+         </font>
+      </Label>
+      <Label fx:id="joinedLabel" layoutX="61.0" layoutY="286.0" opacity="0.43" text="joined ..." />
+      <Label fx:id="birthdateLabel" layoutX="174.0" layoutY="286.0" opacity="0.43" text="Born..." />
+      <ImageView fitHeight="18.0" fitWidth="39.0" layoutX="280.0" layoutY="287.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@location.png" />
+         </image>
+      </ImageView>
+      <Label fx:id="follower" layoutX="60.0" layoutY="314.0" onMouseClicked="#goToFollowerList" opacity="0.43" text="follower" />
+      <Label fx:id="following" layoutX="174.0" layoutY="314.0" onMouseClicked="#goToFollowingList" opacity="0.43" text="following" />
+      <ImageView fx:id="myHeader" fitHeight="160.0" fitWidth="600.0" pickOnBounds="true" />
+      <Button fx:id="follow" layoutX="353.0" layoutY="172.0" mnemonicParsing="false" onMouseClicked="#follow" prefHeight="25.0" prefWidth="77.0" style="-fx-background-color: #1DA1F2; -fx-background-radius: 0;" text="Follow" textFill="WHITE" />
+      <Button fx:id="block" layoutX="467.0" layoutY="172.0" mnemonicParsing="false" onAction="#block" prefHeight="25.0" prefWidth="65.0" style="-fx-background-color: #1DA1F2; -fx-background-radius: 0;" text="Block" textFill="WHITE" />
+      <Label fx:id="location" layoutX="311.0" layoutY="287.0" prefHeight="17.0" prefWidth="65.0" />
+      <ImageView fx:id="myAvatar" fitHeight="95.0" fitWidth="99.0" layoutX="60.0" layoutY="109.0" pickOnBounds="true">
+         <image>
+            <Image url="@avatar.png" />
+         </image>
+      </ImageView>
+      <Button layoutY="2.0" mnemonicParsing="false" onAction="#back" text="back" />
+   </children>
+</AnchorPane>

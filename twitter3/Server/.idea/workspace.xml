@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cc44ea4f-7bd0-400a-8c28-1d2bcb2f681b" name="Changes" comment="check shode ta profile" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="b801c4fe-d9be-47cf-8429-4dca1107a0de" />
+        <option name="url" value="https://github.com/amirhakimi83/twitter.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2QMyexjZ2q0YzQcX5R39mYOyGzU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_directory_selection&quot;: &quot;D:/apps/twitter3/Server/src/main/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/apps/twitter3/Server&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Server" />
+      <module name="Server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc44ea4f-7bd0-400a-8c28-1d2bcb2f681b" name="Changes" comment="" />
+      <created>1685177844114</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685177844114</updated>
+      <workItem from="1685177845166" duration="9000" />
+      <workItem from="1685179271122" duration="915000" />
+      <workItem from="1685181514772" duration="536000" />
+      <workItem from="1685183953244" duration="93000" />
+      <workItem from="1685184221299" duration="1113000" />
+      <workItem from="1685187059283" duration="136000" />
+      <workItem from="1685187219676" duration="754000" />
+      <workItem from="1685190386548" duration="4491000" />
+      <workItem from="1685195637349" duration="70000" />
+      <workItem from="1685195876903" duration="53000" />
+      <workItem from="1685196002211" duration="215000" />
+      <workItem from="1685196256736" duration="154000" />
+      <workItem from="1685196421655" duration="94000" />
+      <workItem from="1685196523055" duration="71000" />
+      <workItem from="1685202237808" duration="1149000" />
+      <workItem from="1685257613699" duration="62000" />
+      <workItem from="1685257684263" duration="17000" />
+      <workItem from="1685257707413" duration="41000" />
+      <workItem from="1685257756398" duration="38000" />
+      <workItem from="1685257846023" duration="24000" />
+      <workItem from="1685257892059" duration="2502000" />
+      <workItem from="1685263353170" duration="10835000" />
+      <workItem from="1685295684954" duration="14000" />
+      <workItem from="1685295727870" duration="20000" />
+      <workItem from="1685295789225" duration="5172000" />
+      <workItem from="1685354643796" duration="3774000" />
+      <workItem from="1685367214685" duration="12000" />
+      <workItem from="1685383613702" duration="770000" />
+      <workItem from="1685778224281" duration="13895000" />
+      <workItem from="1685816249816" duration="8820000" />
+      <workItem from="1685905373997" duration="9066000" />
+      <workItem from="1685953286109" duration="18205000" />
+      <workItem from="1686158914162" duration="16000" />
+      <workItem from="1687592257492" duration="81000" />
+      <workItem from="1687592355312" duration="1287000" />
+      <workItem from="1687629962085" duration="369000" />
+      <workItem from="1687631554891" duration="2171000" />
+      <workItem from="1687682762404" duration="3688000" />
+      <workItem from="1687695834578" duration="4999000" />
+      <workItem from="1687764186934" duration="424000" />
+      <workItem from="1687765228706" duration="353000" />
+      <workItem from="1687767424559" duration="9000" />
+      <workItem from="1687767610507" duration="56000" />
+      <workItem from="1687767680238" duration="27661000" />
+      <workItem from="1687943669619" duration="15171000" />
+      <workItem from="1687989831051" duration="1382000" />
+      <workItem from="1688026049603" duration="7630000" />
+      <workItem from="1688041995936" duration="4111000" />
+      <workItem from="1688051197839" duration="7771000" />
+      <workItem from="1688070006130" duration="531000" />
+      <workItem from="1688112135201" duration="14398000" />
+      <workItem from="1688140752224" duration="7391000" />
+      <workItem from="1688195336417" duration="21543000" />
+    </task>
+    <task id="LOCAL-00001" summary="baraye fayyaz">
+      <created>1685798071249</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685798071249</updated>
+    </task>
+    <task id="LOCAL-00002" summary="taghirat server">
+      <created>1685862397614</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685862397614</updated>
+    </task>
+    <task id="LOCAL-00003" summary="taghirat">
+      <created>1685862579438</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685862579438</updated>
+    </task>
+    <task id="LOCAL-00004" summary="check shode ta profile">
+      <created>1685953313956</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685953313956</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="baraye fayyaz" />
+    <MESSAGE value="taghirat server" />
+    <MESSAGE value="taghirat" />
+    <MESSAGE value="check shode ta profile" />
+    <option name="LAST_COMMIT_MESSAGE" value="check shode ta profile" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.RuntimeException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.net.BindException" package="java.net" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

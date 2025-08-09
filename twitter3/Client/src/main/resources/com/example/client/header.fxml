@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #FFFFFF;" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.client.Header">
+   <children>
+      <Label layoutX="13.0" layoutY="32.0" text="Describe yourself">
+         <font>
+            <Font name="System Bold" size="34.0" />
+         </font>
+      </Label>
+      <Label layoutX="13.0" layoutY="82.0" text="what makes you special? don't think hard,just have fun with it">
+         <font>
+            <Font name="System Italic" size="14.0" />
+         </font>
+      </Label>
+      <TextArea fx:id="textArea" layoutX="13.0" layoutY="115.0" prefHeight="200.0" prefWidth="373.0" promptText="your bio...">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </TextArea>
+      <Text layoutX="20.0" layoutY="105.0" strokeType="OUTSIDE" strokeWidth="0.0" />
+      <ImageView fitHeight="32.0" fitWidth="37.0" layoutX="262.0" layoutY="4.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@download.png" />
+         </image>
+      </ImageView>
+      <Button layoutX="299.0" layoutY="336.0" mnemonicParsing="false" onAction="#confirm" style="-fx-background-color: #1DA1F2;" text="confirm">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Button>
+      <Button layoutX="14.0" layoutY="14.0" mnemonicParsing="false" onAction="#back" style="-fx-background-color: #1DA1F2;" text="back" />
+   </children>
+</AnchorPane>
